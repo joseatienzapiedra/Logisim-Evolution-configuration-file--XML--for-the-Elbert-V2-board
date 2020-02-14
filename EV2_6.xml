@@ -10,6 +10,15 @@
 <!--This section describes all Components present on the boards-->
 <DIPSwitch ActivityLevel="Active high" FPGAPinIOStandard="LVCMOS33" FPGAPinPullBehavior="Pull Up" FPGAPin_0="P70" FPGAPin_1="P69" FPGAPin_2="P68" FPGAPin_3="P64" FPGAPin_4="P63" FPGAPin_5="P60" FPGAPin_6="P59" FPGAPin_7="P58" Height="90" LocationX="579" LocationY="241" NrOfPins="8" Width="30"/>
 <LED ActivityLevel="Active low" FPGAPinDriveStrength="8 mA" FPGAPinIOStandard="LVCMOS33" FPGAPinName="P46" Height="15" LocationX="427" LocationY="278" Width="7"/>
+<LED ActivityLevel="Active low" FPGAPinDriveStrength="8 mA" FPGAPinIOStandard="LVCMOS33" FPGAPinName="P47" Height="15" LocationX="447" LocationY="278" Width="7"/>
+<LED ActivityLevel="Active low" FPGAPinDriveStrength="8 mA" FPGAPinIOStandard="LVCMOS33" FPGAPinName="P48" Height="15" LocationX="464" LocationY="278" Width="7"/>
+<LED ActivityLevel="Active low" FPGAPinDriveStrength="8 mA" FPGAPinIOStandard="LVCMOS33" FPGAPinName="P49" Height="15" LocationX="482" LocationY="278" Width="7"/>
+<LED ActivityLevel="Active low" FPGAPinDriveStrength="8 mA" FPGAPinIOStandard="LVCMOS33" FPGAPinName="P50" Height="15" LocationX="502" LocationY="278" Width="7"/>
+<LED ActivityLevel="Active low" FPGAPinDriveStrength="8 mA" FPGAPinIOStandard="LVCMOS33" FPGAPinName="P51" Height="15" LocationX="520" LocationY="278" Width="7"/>
+<LED ActivityLevel="Active low" FPGAPinDriveStrength="8 mA" FPGAPinIOStandard="LVCMOS33" FPGAPinName="P54" Height="15" LocationX="538" LocationY="278" Width="7"/>
+<LED ActivityLevel="Active low" FPGAPinDriveStrength="8 mA" FPGAPinIOStandard="LVCMOS33" FPGAPinName="P55" Height="15" LocationX="556" LocationY="278" Width="7"/>
+
+
 <Button ActivityLevel="Active high" FPGAPinIOStandard="LVCMOS33" FPGAPinName="P80" FPGAPinPullBehavior="Pull Up" Height="18" LocationX="524" LocationY="126" Width="17"/>
 </IOComponents>
 <BoardPicture>
