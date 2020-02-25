@@ -27,7 +27,19 @@
 <Pin ActivityLevel="Active low" FPGAPinDriveStrength="8 mA" FPGAPinIOStandard="LVCMOS33" FPGAPinName="P124" FPGAPinPullBehavior="Float" Height="15" LocationX="213" LocationY="294" Width="13"/>
 <Pin ActivityLevel="Active low" FPGAPinDriveStrength="8 mA" FPGAPinIOStandard="LVCMOS33" FPGAPinName="P121" FPGAPinPullBehavior="Float" Height="16" LocationX="253" LocationY="293" Width="14"/>
 <Pin ActivityLevel="Active low" FPGAPinDriveStrength="8 mA" FPGAPinIOStandard="LVCMOS33" FPGAPinName="P120" FPGAPinPullBehavior="Float" Height="15" LocationX="293" LocationY="293" Width="14"/>
-<Pin ActivityLevel="Active high" FPGAPinDriveStrength="Default" FPGAPinIOStandard="LVCMOS33" FPGAPinName="P123" FPGAPinPullBehavior="Float" Height="8" LocationX="188" LocationY="350" Width="8"/>
+
+<Pin ActivityLevel="Active high" FPGAPinDriveStrength="Default" FPGAPinIOStandard="LVCMOS33" FPGAPinName="P123" FPGAPinPullBehavior="Float" Height="8" LocationX="188" LocationY="360" Width="8"/>
+<Pin ActivityLevel="Active high" FPGAPinDriveStrength="Default" FPGAPinIOStandard="LVCMOS33" FPGAPinName="P125" FPGAPinPullBehavior="Float" Height="8" LocationX="188" LocationY="350" Width="8"/>
+
+<Pin ActivityLevel="Active high" FPGAPinDriveStrength="Default" FPGAPinIOStandard="LVCMOS33" FPGAPinName="P126" FPGAPinPullBehavior="Float" Height="8" LocationX="198" LocationY="360" Width="8"/>
+<Pin ActivityLevel="Active high" FPGAPinDriveStrength="Default" FPGAPinIOStandard="LVCMOS33" FPGAPinName="P127" FPGAPinPullBehavior="Float" Height="8" LocationX="198" LocationY="350" Width="8"/>
+
+<Pin ActivityLevel="Active high" FPGAPinDriveStrength="Default" FPGAPinIOStandard="LVCMOS33" FPGAPinName="P91" FPGAPinPullBehavior="Float" Height="8" LocationX="208" LocationY="360" Width="8"/>
+<Pin ActivityLevel="Active high" FPGAPinDriveStrength="Default" FPGAPinIOStandard="LVCMOS33" FPGAPinName="P135" FPGAPinPullBehavior="Float" Height="8" LocationX="208" LocationY="350" Width="8"/>
+
+<Pin ActivityLevel="Active high" FPGAPinDriveStrength="Default" FPGAPinIOStandard="LVCMOS33" FPGAPinName="P140" FPGAPinPullBehavior="Float" Height="8" LocationX="218" LocationY="360" Width="8"/>
+<Pin ActivityLevel="Active high" FPGAPinDriveStrength="Default" FPGAPinIOStandard="LVCMOS33" FPGAPinName="P142" FPGAPinPullBehavior="Float" Height="8" LocationX="218" LocationY="350" Width="8"/>
+
 </IOComponents>
 <BoardPicture>
 <!--This section hold the board picture-->
